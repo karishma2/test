@@ -1,4 +1,4 @@
 # test
 
 testing commit message 
-with speedy
+with speedy commit msg
